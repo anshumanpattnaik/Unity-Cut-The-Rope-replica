@@ -1,0 +1,4408 @@
+fileFormatVersion: 2
+guid: da0e161a9fad84bc78779d3b7e835f61
+timeCreated: 1525711816
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: small_font_hd_0
+    21300002: small_font_hd_1
+    21300004: small_font_hd_2
+    21300006: small_font_hd_3
+    21300008: small_font_hd_4
+    21300010: small_font_hd_5
+    21300012: small_font_hd_6
+    21300014: small_font_hd_7
+    21300016: small_font_hd_8
+    21300018: small_font_hd_9
+    21300020: small_font_hd_10
+    21300022: small_font_hd_11
+    21300024: small_font_hd_12
+    21300026: small_font_hd_13
+    21300028: small_font_hd_14
+    21300030: small_font_hd_15
+    21300032: small_font_hd_16
+    21300034: small_font_hd_17
+    21300036: small_font_hd_18
+    21300038: small_font_hd_19
+    21300040: small_font_hd_20
+    21300042: small_font_hd_21
+    21300044: small_font_hd_22
+    21300046: small_font_hd_23
+    21300048: small_font_hd_24
+    21300050: small_font_hd_25
+    21300052: small_font_hd_26
+    21300054: small_font_hd_27
+    21300056: small_font_hd_28
+    21300058: small_font_hd_29
+    21300060: small_font_hd_30
+    21300062: small_font_hd_31
+    21300064: small_font_hd_32
+    21300066: small_font_hd_33
+    21300068: small_font_hd_34
+    21300070: small_font_hd_35
+    21300072: small_font_hd_36
+    21300074: small_font_hd_37
+    21300076: small_font_hd_38
+    21300078: small_font_hd_39
+    21300080: small_font_hd_40
+    21300082: small_font_hd_41
+    21300084: small_font_hd_42
+    21300086: small_font_hd_43
+    21300088: small_font_hd_44
+    21300090: small_font_hd_45
+    21300092: small_font_hd_46
+    21300094: small_font_hd_47
+    21300096: small_font_hd_48
+    21300098: small_font_hd_49
+    21300100: small_font_hd_50
+    21300102: small_font_hd_51
+    21300104: small_font_hd_52
+    21300106: small_font_hd_53
+    21300108: small_font_hd_54
+    21300110: small_font_hd_55
+    21300112: small_font_hd_56
+    21300114: small_font_hd_57
+    21300116: small_font_hd_58
+    21300118: small_font_hd_59
+    21300120: small_font_hd_60
+    21300122: small_font_hd_61
+    21300124: small_font_hd_62
+    21300126: small_font_hd_63
+    21300128: small_font_hd_64
+    21300130: small_font_hd_65
+    21300132: small_font_hd_66
+    21300134: small_font_hd_67
+    21300136: small_font_hd_68
+    21300138: small_font_hd_69
+    21300140: small_font_hd_70
+    21300142: small_font_hd_71
+    21300144: small_font_hd_72
+    21300146: small_font_hd_73
+    21300148: small_font_hd_74
+    21300150: small_font_hd_75
+    21300152: small_font_hd_76
+    21300154: small_font_hd_77
+    21300156: small_font_hd_78
+    21300158: small_font_hd_79
+    21300160: small_font_hd_80
+    21300162: small_font_hd_81
+    21300164: small_font_hd_82
+    21300166: small_font_hd_83
+    21300168: small_font_hd_84
+    21300170: small_font_hd_85
+    21300172: small_font_hd_86
+    21300174: small_font_hd_87
+    21300176: small_font_hd_88
+    21300178: small_font_hd_89
+    21300180: small_font_hd_90
+    21300182: small_font_hd_91
+    21300184: small_font_hd_92
+    21300186: small_font_hd_93
+    21300188: small_font_hd_94
+    21300190: small_font_hd_95
+    21300192: small_font_hd_96
+    21300194: small_font_hd_97
+    21300196: small_font_hd_98
+    21300198: small_font_hd_99
+    21300200: small_font_hd_100
+    21300202: small_font_hd_101
+    21300204: small_font_hd_102
+    21300206: small_font_hd_103
+    21300208: small_font_hd_104
+    21300210: small_font_hd_105
+    21300212: small_font_hd_106
+    21300214: small_font_hd_107
+    21300216: small_font_hd_108
+    21300218: small_font_hd_109
+    21300220: small_font_hd_110
+    21300222: small_font_hd_111
+    21300224: small_font_hd_112
+    21300226: small_font_hd_113
+    21300228: small_font_hd_114
+    21300230: small_font_hd_115
+    21300232: small_font_hd_116
+    21300234: small_font_hd_117
+    21300236: small_font_hd_118
+    21300238: small_font_hd_119
+    21300240: small_font_hd_120
+    21300242: small_font_hd_121
+    21300244: small_font_hd_122
+    21300246: small_font_hd_123
+    21300248: small_font_hd_124
+    21300250: small_font_hd_125
+    21300252: small_font_hd_126
+    21300254: small_font_hd_127
+    21300256: small_font_hd_128
+    21300258: small_font_hd_129
+    21300260: small_font_hd_130
+    21300262: small_font_hd_131
+    21300264: small_font_hd_132
+    21300266: small_font_hd_133
+    21300268: small_font_hd_134
+    21300270: small_font_hd_135
+    21300272: small_font_hd_136
+    21300274: small_font_hd_137
+    21300276: small_font_hd_138
+    21300278: small_font_hd_139
+    21300280: small_font_hd_140
+    21300282: small_font_hd_141
+    21300284: small_font_hd_142
+    21300286: small_font_hd_143
+    21300288: small_font_hd_144
+    21300290: small_font_hd_145
+    21300292: small_font_hd_146
+    21300294: small_font_hd_147
+    21300296: small_font_hd_148
+    21300298: small_font_hd_149
+    21300300: small_font_hd_150
+    21300302: small_font_hd_151
+    21300304: small_font_hd_152
+    21300306: small_font_hd_153
+    21300308: small_font_hd_154
+    21300310: small_font_hd_155
+    21300312: small_font_hd_156
+    21300314: small_font_hd_157
+    21300316: small_font_hd_158
+    21300318: small_font_hd_159
+    21300320: small_font_hd_160
+    21300322: small_font_hd_161
+    21300324: small_font_hd_162
+    21300326: small_font_hd_163
+    21300328: small_font_hd_164
+    21300330: small_font_hd_165
+    21300332: small_font_hd_166
+    21300334: small_font_hd_167
+    21300336: small_font_hd_168
+    21300338: small_font_hd_169
+    21300340: small_font_hd_170
+    21300342: small_font_hd_171
+    21300344: small_font_hd_172
+    21300346: small_font_hd_173
+    21300348: small_font_hd_174
+    21300350: small_font_hd_175
+    21300352: small_font_hd_176
+    21300354: small_font_hd_177
+    21300356: small_font_hd_178
+    21300358: small_font_hd_179
+    21300360: small_font_hd_180
+    21300362: small_font_hd_181
+    21300364: small_font_hd_182
+    21300366: small_font_hd_183
+    21300368: small_font_hd_184
+    21300370: small_font_hd_185
+    21300372: small_font_hd_186
+    21300374: small_font_hd_187
+    21300376: small_font_hd_188
+    21300378: small_font_hd_189
+    21300380: small_font_hd_190
+    21300382: small_font_hd_191
+    21300384: small_font_hd_192
+    21300386: small_font_hd_193
+    21300388: small_font_hd_194
+    21300390: small_font_hd_195
+    21300392: small_font_hd_196
+    21300394: small_font_hd_197
+    21300396: small_font_hd_198
+    21300398: small_font_hd_199
+    21300400: small_font_hd_200
+    21300402: small_font_hd_201
+    21300404: small_font_hd_202
+    21300406: small_font_hd_203
+    21300408: small_font_hd_204
+    21300410: small_font_hd_205
+    21300412: small_font_hd_206
+    21300414: small_font_hd_207
+    21300416: small_font_hd_208
+    21300418: small_font_hd_209
+    21300420: small_font_hd_210
+    21300422: small_font_hd_211
+    21300424: small_font_hd_212
+    21300426: small_font_hd_213
+    21300428: small_font_hd_214
+    21300430: small_font_hd_215
+    21300432: small_font_hd_216
+    21300434: small_font_hd_217
+    21300436: small_font_hd_218
+    21300438: small_font_hd_219
+    21300440: small_font_hd_220
+    21300442: small_font_hd_221
+    21300444: small_font_hd_222
+    21300446: small_font_hd_223
+    21300448: small_font_hd_224
+    21300450: small_font_hd_225
+    21300452: small_font_hd_226
+    21300454: small_font_hd_227
+    21300456: small_font_hd_228
+    21300458: small_font_hd_229
+    21300460: small_font_hd_230
+    21300462: small_font_hd_231
+    21300464: small_font_hd_232
+    21300466: small_font_hd_233
+    21300468: small_font_hd_234
+    21300470: small_font_hd_235
+    21300472: small_font_hd_236
+    21300474: small_font_hd_237
+    21300476: small_font_hd_238
+    21300478: small_font_hd_239
+    21300480: small_font_hd_240
+    21300482: small_font_hd_241
+    21300484: small_font_hd_242
+    21300486: small_font_hd_243
+    21300488: small_font_hd_244
+    21300490: small_font_hd_245
+    21300492: small_font_hd_246
+    21300494: small_font_hd_247
+    21300496: small_font_hd_248
+    21300498: small_font_hd_249
+    21300500: small_font_hd_250
+    21300502: small_font_hd_251
+    21300504: small_font_hd_252
+    21300506: small_font_hd_253
+    21300508: small_font_hd_254
+    21300510: small_font_hd_255
+    21300512: small_font_hd_256
+    21300514: small_font_hd_257
+    21300516: small_font_hd_258
+    21300518: small_font_hd_259
+    21300520: small_font_hd_260
+    21300522: small_font_hd_261
+    21300524: small_font_hd_262
+    21300526: small_font_hd_263
+    21300528: small_font_hd_264
+    21300530: small_font_hd_265
+    21300532: small_font_hd_266
+    21300534: small_font_hd_267
+    21300536: small_font_hd_268
+    21300538: small_font_hd_269
+    21300540: small_font_hd_270
+    21300542: small_font_hd_271
+    21300544: small_font_hd_272
+    21300546: small_font_hd_273
+    21300548: small_font_hd_274
+    21300550: small_font_hd_275
+    21300552: small_font_hd_276
+    21300554: small_font_hd_277
+    21300556: small_font_hd_278
+    21300558: small_font_hd_279
+    21300560: small_font_hd_280
+    21300562: small_font_hd_281
+    21300564: small_font_hd_282
+    21300566: small_font_hd_283
+    21300568: small_font_hd_284
+    21300570: small_font_hd_285
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: small_font_hd_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 565
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 575
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 575
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 559
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 559
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 558
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 557
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 577
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 560
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 560
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 566
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 571
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 558
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 561
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 559
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 559
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 561
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 559
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 559
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 559
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 561
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 559
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_22
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 559
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_23
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 575
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 573
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_25
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 567
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 574
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_27
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 567
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_28
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 566
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_29
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 561
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_30
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 558
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_31
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 558
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_32
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 559
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_33
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 560
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_34
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 558
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_35
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 557
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_36
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 559
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_37
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 556
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_38
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 558
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_39
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 562
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 556
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_41
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 558
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_42
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 557
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_43
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 560
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_44
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 558
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_45
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 558
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_46
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 557
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 558
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 567
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 561
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_50
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 566
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 558
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_52
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 553
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_53
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 559
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 554
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_55
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 559
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 455
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_57
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 455
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 455
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_59
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 456
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 456
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_61
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 477
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_62
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 484
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_63
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 455
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_64
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 455
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 454
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_66
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 456
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 454
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 450
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_69
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 454
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 453
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_71
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 454
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_72
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 455
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_73
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 454
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_74
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 455
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_75
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 448
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_76
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 454
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_77
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 475
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_78
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 476
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_79
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 454
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_80
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 447
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_81
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 447
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_82
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 456
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_83
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 456
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_84
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 446
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_85
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 454
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_86
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 454
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_87
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 454
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_88
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 474
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_89
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 458
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_90
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 452
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_91
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 454
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_92
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 456
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_93
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 447
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_94
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 451
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_95
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 454
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_96
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 459
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_97
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 446
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_98
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 454
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_99
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 452
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_100
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 453
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_101
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 449
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_102
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 453
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 349
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_104
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 348
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_105
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 348
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_106
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 348
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_107
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 377
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_108
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 377
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_109
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 377
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 377
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_111
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 377
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_112
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 378
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_113
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 379
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_114
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 379
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_115
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 349
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_116
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 349
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_117
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 349
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_118
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 349
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_119
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 348
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_120
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 377
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_121
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 378
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_122
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 378
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_123
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 348
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_124
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 349
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_125
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 337
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_126
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_127
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 349
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_128
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_129
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_130
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_131
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 349
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_132
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_133
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 369
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_134
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 369
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_135
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 349
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_136
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 367
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_137
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 349
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_138
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 369
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 369
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_140
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 351
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_141
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 349
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_142
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 350
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_143
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 369
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_144
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 369
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_145
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 369
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_146
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 349
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_147
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 371
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_148
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 371
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_149
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_150
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 349
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_151
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 349
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_152
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 370
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_153
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 370
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_154
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 347
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_155
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 360
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_156
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 360
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_157
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 359
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_158
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_159
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 349
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_160
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 341
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_161
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 349
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_162
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 349
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_163
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 349
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_164
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 348
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_165
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 350
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_166
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 350
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_167
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 352
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_168
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 351
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_169
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 348
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_170
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 351
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_171
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 348
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_172
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 247
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_173
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 248
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_174
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 247
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_175
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 282
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_176
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 248
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_177
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 281
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_178
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 281
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_179
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 281
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_180
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 282
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_181
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 283
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_182
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 281
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_183
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 281
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_184
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 281
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_185
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 269
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_186
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 276
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_187
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 247
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_188
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 247
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_189
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 270
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_190
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 270
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_191
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 248
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_192
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 250
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_193
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 250
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_194
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 272
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_195
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 271
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_196
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 247
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_197
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 272
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_198
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 271
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_199
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 247
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_200
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 246
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_201
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 246
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_202
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 247
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_203
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 248
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_204
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 248
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_205
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 248
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_206
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 248
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_207
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 248
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_208
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 276
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_209
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 277
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_210
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 275
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_211
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_212
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 248
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_213
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 250
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_214
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 249
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_215
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 237
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_216
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 249
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_217
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 247
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_218
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 247
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_219
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 245
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_220
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 246
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_221
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 246
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_222
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 238
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_223
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 246
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_224
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 246
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_225
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 245
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_226
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 245
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_227
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 246
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_228
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 246
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_229
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 246
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_230
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 245
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_231
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 245
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_232
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 142
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_233
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 142
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_234
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 142
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_235
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 143
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_236
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 142
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_237
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 143
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_238
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 141
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_239
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 140
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_240
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 141
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_241
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 135
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_242
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 142
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_243
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 143
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_244
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 136
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_245
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 142
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_246
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 142
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_247
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 144
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_248
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 141
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_249
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 142
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_250
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 142
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_251
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 141
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_252
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 143
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_253
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 142
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_254
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 142
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_255
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 142
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_256
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 164
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_257
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 142
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_258
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 131
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_259
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 142
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_260
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 142
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_261
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 142
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_262
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 142
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_263
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 142
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_264
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 142
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_265
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 142
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_266
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 142
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_267
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 142
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_268
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 142
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_269
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 142
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_270
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 143
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_271
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 131
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_272
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 142
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_273
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 142
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_274
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 134
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_275
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 141
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_276
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 136
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_277
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 143
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_278
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 142
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_279
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 136
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_280
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_281
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 39
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_282
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_283
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 39
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_284
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 39
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: small_font_hd_285
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

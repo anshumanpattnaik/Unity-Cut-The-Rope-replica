@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locales="en,ru,fr,de">
+  <string name="PLAY">
+    <en>Play</en>
+    <ru>Играть</ru>
+    <fr>Jouer</fr>
+    <de>Spielen</de>
+  </string>
+  <string name="OPTIONS">
+    <en>Options</en>
+    <ru>Настройки</ru>
+    <fr>Options</fr>
+    <de>Einstellungen</de>
+  </string>
+  <string name="EXTRAS">
+    <en>Extras</en>
+    <ru>Дополнительно</ru>
+    <fr>Extras</fr>
+    <de>Extras</de>
+  </string>
+  <string name="FULL_VERSION">
+    <en>Full version</en>
+    <ru>Полная версия</ru>
+    <fr>Version complète</fr>
+    <de>Vollversion</de>
+  </string>
+  <string name="RESET">
+    <en>Reset game</en>
+    <ru>Сброс прогресса</ru>
+    <fr>Réinitialiser</fr>
+    <de>Zurücksetzen</de>
+  </string>
+  <string name="CREDITS">
+    <en>Credits</en>
+    <ru>Авторы</ru>
+    <fr>Crédits</fr>
+    <de>Mitwirkende</de>
+  </string>
+  <string name="DRAWINGS">
+    <en>Drawings</en>
+    <ru>Рисунки</ru>
+    <fr>Dessins</fr>
+    <de>Zeichnungen</de>
+  </string>
+  <string name="CRYSTAL">
+    <en>Crystal</en>
+    <ru>Crystal</ru>
+    <fr>Crystal</fr>
+    <de>Crystal</de>
+  </string>
+  <string name="MUSIC_ON">
+    <en>Music on</en>
+    <ru>Музыка вкл.</ru>
+    <fr>Musique : oui</fr>
+    <de>Musik an</de>
+  </string>
+  <string name="MUSIC_OFF">
+    <en>Music off</en>
+    <ru>Музыка выкл.</ru>
+    <fr>Musique : non</fr>
+    <de>Musik aus</de>
+  </string>
+  <string name="SOUNDS_ON">
+    <en>Sounds on</en>
+    <ru>Звук вкл.</ru>
+    <fr>Sons : oui</fr>
+    <de>Sound an</de>
+  </string>
+  <string name="SOUNDS_OFF">
+    <en>Sounds off</en>
+    <ru>Звук выкл.</ru>
+    <fr>Sons : non</fr>
+    <de>Sound aus</de>
+  </string>
+  <string name="LANGUAGE">
+    <en>Language:</en>
+    <ru>Язык:</ru>
+    <fr>Langue : </fr>
+    <de>Sprache:</de>
+  </string>
+  <string name="NEWS">
+    <en>News</en>
+    <ru>Новости</ru>
+    <fr>Nouveautés</fr>
+    <de>Neuigkeiten</de>
+  </string>
+  <string name="FOLLOW_US">
+    <en>Follow us</en>
+    <ru>Следите за нами</ru>
+    <fr>Suis-nous sur</fr>
+    <de>Folge uns</de>
+  </string>
+  <string name="RESET_TEXT">
+    <en>Are you sure you want to reset your progress?</en>
+    <ru>Уверены что хотите сбросить игровой прогресс?</ru>
+    <fr>Veux-tu vraiment réinitialiser ta progression ?</fr>
+    <de>Spielfortschritt wirklich zurücksetzen?</de>
+  </string>
+  <string name="LEVEL_CLEARED1">
+    <en>Passable!</en>
+    <ru>Уровень пройден!</ru>
+    <fr>Passable !</fr>
+    <de>Akzeptabel!</de>
+  </string>
+  <string name="LEVEL_CLEARED2">
+    <en>Good!</en>
+    <ru>Хорошо!</ru>
+    <fr>Bien !</fr>
+    <de>Gut!</de>
+  </string>
+  <string name="LEVEL_CLEARED3">
+    <en>Great!</en>
+    <ru>Отлично!</ru>
+    <fr>Super !</fr>
+    <de>Klasse!</de>
+  </string>
+  <string name="LEVEL_CLEARED4">
+    <en>Excellent!</en>
+    <ru>Супер!</ru>
+    <fr>Formidable !</fr>
+    <de>Hervorragend!</de>
+  </string>
+  <string name="LEVEL">
+    <en>Level</en>
+    <ru>Уровень</ru>
+    <fr>Niveau</fr>
+    <de>Level</de>
+  </string>
+  <string name="TIME">
+    <en>Time</en>
+    <ru>Время</ru>
+    <fr>Temps</fr>
+    <de>Zeit</de>
+  </string>
+  <string name="STAR_BONUS">
+    <en>Star Bonus</en>
+    <ru>Бонус за звезды</ru>
+    <fr>Bonus étoiles</fr>
+    <de>Sternbonus</de>
+  </string>
+  <string name="FINAL_SCORE">
+    <en>Your Final Score</en>
+    <ru>Итоговые очки</ru>
+    <fr>Score final</fr>
+    <de>Endergebnis</de>
+  </string>
+  <string name="BEST_SCORE">
+    <en>Best Score</en>
+    <ru>Лучший результат</ru>
+    <fr>Meilleur score</fr>
+    <de>Beste Punktzahl</de>
+  </string>
+  <string name="SCORE">
+    <en>Score</en>
+    <ru>Очки</ru>
+    <fr>Score</fr>
+    <de>Punktzahl</de>
+  </string>
+  <string name="YES">
+    <en>Yes</en>
+    <ru>Да</ru>
+    <fr>Oui</fr>
+    <de>Ja</de>
+  </string>
+  <string name="NO">
+    <en>No</en>
+    <ru>Нет</ru>
+    <fr>Non</fr>
+    <de>Nein</de>
+  </string>
+  <string name="REPLAY">
+    <en>Replay</en>
+    <ru>Еще раз</ru>
+    <fr>Rejouer</fr>
+    <de>Nochmal</de>
+  </string>
+  <string name="NEXT">
+    <en>Next</en>
+    <ru>Вперед</ru>
+    <fr>Suivant</fr>
+    <de>Weiter</de>
+  </string>
+  <string name="MENU">
+    <en>Menu</en>
+    <ru>Меню</ru>
+    <fr>Menu</fr>
+    <de>Menü</de>
+  </string>
+  <string name="LOADING">
+    <en>Loading...</en>
+    <ru>Загрузка...</ru>
+    <fr>Chargement...</fr>
+    <de>Lädt...</de>
+  </string>
+  <string name="TOTAL_STARS">
+    <en>Total: %d</en>
+    <ru>Всего: %d</ru>
+    <fr>Total : %d</fr>
+    <de>Gesamt: %d</de>
+  </string>
+  <string name="OK">
+    <en>Ok</en>
+    <ru>ОК</ru>
+    <fr>OK</fr>
+    <de>OK</de>
+  </string>
+  <string name="UNLOCK_HINT">
+    <en>Collect %d stars to unlock this level pack</en>
+    <ru>Соберите %d звезд чтобы открыть коробку</ru>
+    <fr>Collecte %d étoiles pour débloquer ce pack de niveaux</fr>
+    <de>Sammle %d Sterne, um dieses Level-Pack freizuschalten.</de>
+  </string>
+  <string name="CANT_WAIT">
+    <en>Can't wait?</en>
+    <ru>Не терпится?</ru>
+    <fr>Impatient ?</fr>
+    <de>Ungeduldig?</de>
+  </string>
+  <string name="CANT_UNLOCK_TEXT1">
+    <en>You are missing</en>
+    <ru>Вам не хватает всего</ru>
+    <fr>Il te manque</fr>
+    <de>Dir fehlen noch</de>
+  </string>
+  <string name="CANT_UNLOCK_TEXT2">
+    <en>to unlock this box</en>
+    <ru>чтобы открыть коробку</ru>
+    <fr>pour débloquer la boîte</fr>
+    <de>zum Öffnen der Kiste.</de>
+  </string>
+  <string name="CANT_UNLOCK_TEXT3">
+    <en>Get more stars from the earlier levels</en>
+    <ru>Соберите больше звезд в предыдущих уровнях</ru>
+    <fr>Obtiens plus d'étoiles dans les niveaux précédents </fr>
+    <de>Hole dir mehr Sterne aus den vorherigen Levels.</de>
+  </string>
+  <string name="GAME_FINISHED_TEXT">
+    <en>You have finished the game!</en>
+    <ru>Вы успешно прошли игру!</ru>
+    <fr>Tu as terminé le jeu !</fr>
+    <de>Du hast das Spiel geschafft!</de>
+  </string>
+  <string name="GAME_FINISHED_TEXT2">
+    <en>Check back for the new levels coming with the updates</en>
+    <ru>Новые уровни будут добавляться с обновлениями</ru>
+    <fr>Reviens plus tard pour découvrir les nouveaux niveaux contenus dans les mises à jour</fr>
+    <de>Verpass nicht die neuen Levels in den kommenden Updates!</de>
+  </string>
+  <string name="ACHIEVEMENT_GAINED">
+    <en>achievement gained!</en>
+    <ru>разлочено!</ru>
+    <fr>succès obtenu !</fr>
+    <de>Erfolg errungen!</de>
+  </string>
+  <string name="CONTINUE">
+    <en>Continue</en>
+    <ru>Продолжить</ru>
+    <fr>Continuer</fr>
+    <de>Fortfahren</de>
+  </string>
+  <string name="SKIP_LEVEL">
+    <en>Skip level</en>
+    <ru>Пропустить</ru>
+    <fr>Passer le niveau</fr>
+    <de>Überspringen</de>
+  </string>
+  <string name="LEVEL_SELECT">
+    <en>Level select</en>
+    <ru>Выбор уровня</ru>
+    <fr>Sélect. niv.</fr>
+    <de>Level wählen</de>
+  </string>
+  <string name="MAIN_MENU">
+    <en>Main menu</en>
+    <ru>Главное меню</ru>
+    <fr>Menu princ.</fr>
+    <de>Hauptmenü</de>
+  </string>
+  <string name="RATEME_TITLE">
+    <en>Enjoying Cut the Rope?</en>
+    <ru>Нравится Cut the Rope?</ru>
+    <fr>Tu aimes Cut the Rope ?</fr>
+    <de>Hat dir "Cut the Rope" gefallen?</de>
+  </string>
+  <string name="GIFT_POPUP_TITLE">
+    <en>Enjoying Cut the Rope?</en>
+    <ru>Нравится Cut the Rope?</ru>
+    <fr>Tu aimes Cut the Rope ?</fr>
+    <de>Hat dir "Cut the Rope" gefallen?</de>
+  </string>
+  <string name="RATEME_TEXT">
+    <en>If so, please rate this game on the App Store with 5 stars so we can keep the free updates coming.</en>
+    <ru>Если да, оцените игру 5-ю звездами на App Store, и мы продолжим выпускать бесплатные обновления.</ru>
+    <fr>Si oui, donne 5 étoiles à ce jeu sur l'App Store. Nous pourrons ainsi continuer à fournir des mises à jour gratuites.</fr>
+    <de>Dann bewerte das Spiel im App Store mit 5 Sternen, damit wir dir auch in Zukunft kostenlose Updates bringen können.</de>
+  </string>
+  <string name="DRAWINGS_TAP">
+    <en>Tap to continue</en>
+    <ru>Продолжить</ru>
+    <fr>Touche pour continuer</fr>
+    <de>Zum Fortfahren antippen</de>
+  </string>
+  <string name="DRAWINGS_LOCKED">
+    <en>Find this picture on the background of game levels!</en>
+    <ru>Ищите рисунок на заднем фоне уровней игры!</ru>
+    <fr>Trouve cette image dans l'arrière-plan des niveaux du jeu !</fr>
+    <de>Suche dieses Bild im Hintergrund der einzelnen Levels!</de>
+  </string>
+  <string name="DRAWINGS_FACEBOOK">
+    <en>Like our group on Facebook and get latest news about Cut the Rope!</en>
+    <ru>Нажмите "Мне нравится", чтобы войти в группу на Facebook и открыть рисунок!</ru>
+    <fr>Aime notre groupe sur Facebook afin d'obtenir les dernières infos sur Cut the Rope !</fr>
+    <de>Gehe auf unsere Facebook-Seite und klicke „Gefällt mir", um immer die aktuellsten Neuigkeiten über "Cut the Rope" zu erhalten!</de>
+  </string>
+  <string name="UPDATE_POPUP_TITLE">
+    <en>What's new in the update</en>
+    <ru>Что нового в обновлении</ru>
+    <fr>Nouveautés de la version</fr>
+    <de>Neues in diesem Update</de>
+  </string>
+  <string name="OMNOM_DRAWINGS">
+    <en>Om Nom Drawings</en>
+    <ru>Рисунки Ам Няма</ru>
+    <fr>Dessins d'Om Nom</fr>
+    <de>Om-Nom-Zeichnungen</de>
+  </string>
+  <string name="DRAWING_FOUND">
+    <en>Drawing found!</en>
+    <ru>Новый рисунок!</ru>
+    <fr>Dessin trouvé !</fr>
+    <de>Zeichnung gefunden!</de>
+  </string>
+  <string name="DRAWINGS_TOTAL">
+    <en>Drawings found: %d / %d</en>
+    <ru>Найдено рисунков: %d / %d</ru>
+    <fr>Dessins trouvés : %d / %d</fr>
+    <de>Gefundene Zeichnungen: %d / %d</de>
+  </string>
+  <string name="FACEBOOK_LIKE">
+    <en>Like</en>
+    <ru>Мне нравится</ru>
+    <fr>J'aime</fr>
+    <de>Gefällt mir</de>
+  </string>
+  <string name="FACEBOOK_SHARE">
+    <en>Share</en>
+    <ru>Поделиться</ru>
+    <fr>Partager</fr>
+    <de>Teilen</de>
+  </string>
+  <string name="DRAWINGS_LOCKED">
+    <en>Find this picture on the background of the game levels!</en>
+    <ru>Ищите рисунок на заднем фоне уровней игры!</ru>
+    <fr>Trouve cette image dans l'arrière-plan des niveaux du jeu !</fr>
+    <de>Suche dieses Bild im Hintergrund der einzelnen Levels!</de>
+  </string>
+  <string name="DRAWINGS_FACEBOOK">
+    <en>Like our group on Facebook to unlock this drawing!</en>
+    <ru>Нажмите "Мне нравится", чтобы войти в группу на Facebook и открыть рисунок!</ru>
+    <fr>Aime notre groupe sur Facebook pour débloquer ce dessin !</fr>
+    <de>Gehe auf unsere Facebook-Seite und klicke „Gefällt mir", um diese Zeichnung freizuschalten!</de>
+  </string>
+  <string name="PROCESSING">
+    <en>Processing...</en>
+    <ru>Обработка...</ru>
+    <fr>Traitement en cours...</fr>
+    <de>Wird bearbeitet ...</de>
+  </string>
+  <string name="LEVEL_BOX_UNLOCK">
+    <en>Level Box Unlock</en>
+    <ru>Открытие коробки с уровнями</ru>
+    <fr>Débloquer une Boîte de niveaux</fr>
+    <de>Level-Pack freischalten</de>
+  </string>
+  <string name="GIFT_POPUP_MESSAGE">
+    <en>Gift this app to your friends and spread the joy!</en>
+    <ru>Разделите удовольствие с друзьями, подарите игру!</ru>
+    <fr>Répands la joie en offrant cette application à tes amis !</fr>
+    <de>Lass deine Freunde am Spaß teilhaben und schenke ihnen diese App!</de>
+  </string>
+  <string name="REMIND_ME_LATER">
+    <en>Remind me later</en>
+    <ru>Напомнить позже</ru>
+    <fr>Me le rappeler ultérieurement</fr>
+    <de>Später erinnern</de>
+  </string>
+  <string name="DONT_ASK_AGAIN">
+    <en>Don't ask again</en>
+    <ru>Не спрашивать больше</ru>
+    <fr>Ne plus me le demander </fr>
+    <de>Nicht wieder fragen</de>
+  </string>
+  <string name="DRAWING_UNLOCKED_MESSAGE">
+    <en>I've just unlocked a new Om Nom's drawing in Cut the Rope!</en>
+    <ru>Я только что нашел новый рисунок Ам Няма в Cut the Rope!</ru>
+    <fr>Je viens de débloquer un nouveau dessin d’Om Nom dans Cut the Rope !</fr>
+    <de>Ich habe gerade eine neue Om-Nom-Zeichnung in "Cut the Rope" entdeckt!</de>
+  </string>
+  <string name="RATE_IT">
+    <en>Yes, rate it!</en>
+    <ru>Да, оценить!</ru>
+    <fr>Oui, le noter !</fr>
+    <de>Ja, bewerten!</de>
+  </string>
+  <string name="DRAWING_UNLOCKED_DESCRIPTION">
+    <en>The gallery of the art dedicated to the sweets has just got a new masterpiece.</en>
+    <ru>В галерею искусств, посвященных сладостям, поступил новый шедевр!</ru>
+    <fr>La galerie d’art dédiée aux sucreries vient de recevoir un nouveau chef-d'œuvre.</fr>
+    <de>Diese Bonbon-Kunstgalerie wurde grade um ein neues Meisterwerk ergänzt.</de>
+  </string>
+  <string name="RESET_HOLD_TEXT">
+    <en>Hold 'Yes' button for 3 seconds to reset.</en>
+    <ru>Удерживайте "Да" в течение 3 секунд для сброса прогресса.</ru>
+    <fr>Maintenir le doigt sur Oui pendant 3 secondes pour réinitialiser.</fr>
+    <de>Halte zum Neustarten die "Ja"-Taste für 3 Sekunden.</de>
+  </string>
+  <string name="GAME_PROGRESS">
+    <en>Game progress</en>
+    <ru>Игровой прогресс</ru>
+    <fr>Progression</fr>
+    <de>Fortschritt</de>
+  </string>
+  <string name="GET_IT_NOW">
+    <en>Get it now!</en>
+    <ru>Скачайте сейчас!</ru>
+    <fr>Télécharger !</fr>
+    <de>Jetzt holen!</de>
+  </string>
+  <string name="ICLOUD_SYNC_ON">
+    <en>iCloud Sync On</en>
+    <ru>iCloud вкл.</ru>
+    <fr>iCloud Sync : oui</fr>
+    <de>iCloud Sync Ein</de>
+  </string>
+  <string name="ICLOUD_SYNC_OFF">
+    <en>iCloud Sync Off</en>
+    <ru>iCloud выкл.</ru>
+    <fr>iCloud Sync : non</fr>
+    <de>iCloud Sync Aus</de>
+  </string>
+  <string name="ICLOUD_TEXT">
+    <en>Do you want to keep your game progress synchronized for all your devices via iCloud?</en>
+    <ru>Синхронизировать игровой прогресс через iCloud со всеми вашими устройствами?</ru>
+    <fr>Garder la progression dans le jeu synchronisée sur tous les appareils via iCloud ?</fr>
+    <de>Möchtest du deinen Spielfortschritt für alle deine Geräte via iCloud synchronisieren?</de>
+  </string>
+  <string name="ICLOUD_SAVE_FOUND">
+    <en>Saved game progress data is available in the iCloud. Do you want to use it?</en>
+    <ru>В iCloud имеются данные о сохранённом игровом прогрессе. Загрузить?</ru>
+    <fr>Des données de sauvegardes de progression sont disponibles sur iCloud. Les utiliser ?</fr>
+    <de>Gespeicherte Spielfortschrittsdaten sind in iCloud verfügbar. Möchtest du diese verwenden?</de>
+  </string>
+  <string name="GIFT_BOX_LABEL">
+    <en>Gift this app</en>
+    <ru>Подарить игру</ru>
+    <fr>Offrir
+    cette App</fr>
+    <de>App verschenken</de>
+  </string>
+  <string name="BOX1_LABEL">
+    <en>1. Cardboard Box</en>
+    <ru>1. Картонная</ru>
+    <fr>1. Carton</fr>
+    <de>1. Pappkiste</de>
+  </string>
+  <string name="BOX2_LABEL">
+    <en>2. Fabric Box</en>
+    <ru>2. Тканевая</ru>
+    <fr>2. Tissu</fr>
+    <de>2. Stoffkiste</de>
+  </string>
+  <string name="BOX3_LABEL">
+    <en>3. Foil Box</en>
+    <ru>3. Из фольги</ru>
+    <fr>3. Papier</fr>
+    <de>3. Folienkiste</de>
+  </string>
+  <string name="BOX4_LABEL">
+    <en>4. Magic Box</en>
+    <ru>4. Волшебная</ru>
+    <fr>4. Magique</fr>
+    <de>4. Magiekiste</de>
+  </string>
+  <string name="BOX5_LABEL">
+    <en>5. Valentine Box</en>
+    <ru>5. Валентинка</ru>
+    <fr>5. Valentin</fr>
+    <de>5. Valentinskiste</de>
+  </string>
+  <string name="BOX6_LABEL">
+    <en>6. Toy box</en>
+    <ru>6. Игрушечная</ru>
+    <fr>6. Jouets</fr>
+    <de>6. Spielzeugkiste</de>
+  </string>
+  <string name="BOX7_LABEL">
+    <en>7. Gift Box</en>
+    <ru>7. Подарочная</ru>
+    <fr>7. Cadeau</fr>
+    <de>7. Geschenkkiste</de>
+  </string>
+  <string name="BOX8_LABEL">
+    <en>8. Cosmic Box</en>
+    <ru>8. Космическая</ru>
+    <fr>8. Cosmique</fr>
+    <de>8. Kosmoskiste</de>
+  </string>
+  <string name="BOX9_LABEL">
+    <en>9. Toolbox</en>
+    <ru>9. Инструменты</ru>
+    <fr>9. Outils</fr>
+    <de>9. Werkzeugkiste</de>
+  </string>
+  <string name="BOX10_LABEL">
+    <en>10. Buzz Box</en>
+    <ru>10. Медовая</ru>
+    <fr>10. Abeille</fr>
+    <de>10. Summkiste</de>
+  </string>
+  <string name="BOX11_LABEL">
+    <en>11. DJ Box</en>
+    <ru>11. DJ</ru>
+    <fr>11. DJ</fr>
+    <de>11. DJ-Kiste</de>
+  </string>  
+  <string name="BOX_SOON_LABEL">
+    <en>New levels coming soon!</en>
+    <ru>Новые уровни на подходе!</ru>
+    <fr>Nouveaux niveaux bientôt disponibles!</fr>
+    <de>Bald gibt es neue Levels!</de>
+  </string>
+  <string name="BOX_SOON_AVAILABLE_LABEL">
+    <en>New levels available!</en>
+    <ru>Доступны новые уровни!</ru>
+    <fr>Nouveaux niveaux disponibles!</fr>
+    <de>Neue Levels verfügbar!</de>
+  </string>
+<string name="MID_DETECTED_TITLE"><en>Apptivity piece detected!</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_DETECTED_TEXT"><en>Launch any in-game level and pace the figure on the screen to activate the 'candy frenzy' mini game</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_TUTORIAL_TEXT"><en>Move the Apptivity figure around the screen. Collect all sweets and avoid spiders to gain a special Blue Star in each level.</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_TUTORIAL_SKIP"><en>Tap to skip</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_TUTORIAL_GET_READY"><en>Get ready!</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_WIN_TITLE"><en>Success! Blue Star collected!</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_LOSE_TITLE_SPIDER"><en>Yuk! Spiders are not tasty at all.</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_LOSE_TITLE_CANDY"><en>Oh my. I bet this candy was very tasty.</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_TRY_AGAIN"><en>Try again</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_RESUME"><en>Resume</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_LEVEL_SELECT"><en>Level Select</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_MORE_INFO"><en>More Info</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_CANDY_FRENZY"><en>Candy Frenzy</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>
+<string name="MID_BUTTONS_HINT"><en>Move the figure to the circles</en><ru>Что нового в обновлении</ru><de>Neues in diesem Update</de><fr>Nouveautés de la version</fr></string>    
+  <string name="ABOUT_TEXT">
+    <en>Cut the Rope ver. %@
+Copyright 2011 by ZeptoLab.
+
+A game developed by ZeptoLab and published by Chillingo.
+
+Additional Design:
+Nataliya Omelyanchuk
+
+Music and Sounds:
+Alexander Falinski
+Dargalon</en>
+    <ru>Cut the Rope версия %@
+2011 ZeptoLab.
+
+Игра разработана ZeptoLab и издается Chillingo.
+
+Дополнительный гейм-дизайн:
+Наталья Омельянчук
+
+Музыка и звуки:
+Александр Фалинский
+Dargalon</ru>
+    <fr>Cut the Rope ver. %@
+Copyright 2011 ZeptoLab.
+
+Jeu développé par ZeptoLab et édité par Chillingo.
+
+Conception de niveaux supplémentaires :
+Nataliya Omelyanchuk
+
+Musique et bruitages :
+Alexander Falinski
+Dargalon</fr>
+    <de>Cut the Rope Version: %@
+Copyright 2011 von ZeptoLab.
+
+Das Spiel wurde von ZeptoLab entwickelt und von Chillingo veröffentlicht.
+
+Zusätzliches Design:
+Nataliya Omelyanchuk
+
+Musik und Sound:
+Alexander Falinski
+Dargalon</de>
+  </string>
+<string name="ABOUT_SPECIAL_THANKS">
+    <en>Quality assurance:
+SPL
+Universally Speaking
+
+Special Thanks:
+Vladimir Agafonov, Maks Chekmarev, Dmitry Chernenko, Alexander Danilov, Alexandra Dubovitskaya, Grigory Kireev, Louise Lazzari, Brandyn Rasmussen, Tiago Amorim Rocha, Andrey Vengerskiy, Barbos, Uliya Voinova, Elena Volk</en>
+    <ru>Контроль качества:
+SPL
+Universally Speaking
+
+Отдельное спасибо:
+Владимир Агафонов, Максим Чекмарёв, Дмитрий Черненко, Александр Данилов, Александра Дубовицкая, Григорий Киреев, Louise Lazzari, Brandyn Rasmussen, Tiago Amorim Rocha, Андрей Венгерский, Барбос, Юлия Воинова, Елена Волк</ru>
+    <fr>Assurance qualité :  
+SPL
+Universally Speaking
+
+Remerciements particuliers :
+Vladimir Agafonov, Maks Chekmarev, Dmitry Chernenko, Alexander Danilov, Alexandra Dubovitskaya, Grigory Kireev, Louise Lazzari, Brandyn Rasmussen, Tiago Amorim Rocha, Andrey Vengerskiy, Barbos, Uliya Voinova, Elena Volk</fr>
+    <de>Qualitätssicherung: 
+SPL
+Universally Speaking
+
+Besonderen Dank an:
+Vladimir Agafonov, Maks Chekmarev, Dmitry Chernenko, Alexander Danilov, Alexandra Dubovitskaya, Grigory Kireev, Louise Lazzari, Brandyn Rasmussen, Tiago Amorim Rocha, Andrey Vengerskiy, Barbos, Uliya Voinova, Elena Volk</de>
+  </string>
+  <string name="EA_LICENSE_TEXT">
+    <en>By purchasing and/or using this application, you agree to the terms of the End User License Agreement and EA’s Privacy Policy and Terms of Service.</en>
+    <ru>Приобретая и/или используя это приложение, вы соглашаетесь со следующими условиями:</ru>
+    <fr>En achetant et/ou en utilisant cette application, vous acceptez les termes du Contrat de Licence Utilisateur Final ainsi que la Charte de confidentialité et les Conditions d'utilisation d’EA.</fr>
+    <de>Durch den Kauf und/oder die Verwendung dieser Anwendung erkennst du die Bedingungen des Endbenutzer-Lizenzvertrages sowie der Datenschutzrichtlinie und Nutzungsbedingungen von EA uneingeschränkt an.</de>
+  </string>
+  <string name="EA_EULA">
+    <en>EULA</en>
+    <ru>Лиценз. Соглашение</ru>
+    <fr>CLUF</fr>
+    <de>Endben.-Liz.-Vertr.</de>
+  </string>
+  <string name="EA_PRIVACY">
+    <en>Privacy Policy</en>
+    <ru>Политика конф.</ru>
+    <fr>Confidentialité</fr>
+    <de>Datensch.-Richtl.</de>
+  </string>
+  <string name="EA_TERMS">
+    <en>Terms of Service</en>
+    <ru>Условия исп.</ru>
+    <fr>Conditions</fr>
+    <de>Nutz.-Bed.</de>
+  </string>
+  <string name="EA_EULA_URL">
+    <en>http://tos.ea.com/legalapp/mobileeula/US/en/OTHER/</en>
+    <ru>http://tos.ea.com/legalapp/mobileeula/US/en/OTHER/</ru>
+    <fr>http://tos.ea.com/legalapp/mobileeula/US/en/OTHER/</fr>
+    <de>http://tos.ea.com/legalapp/mobileeula/US/en/OTHER/</de>
+  </string>
+  <string name="EA_PRIVACY_URL">
+    <en>http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/</en>
+    <ru>http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/</ru>
+    <fr>http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/</fr>
+    <de>http://tos.ea.com/legalapp/WEBPRIVACY/US/en/PC/</de>
+  </string>
+  <string name="EA_TERMS_URL">
+    <en>http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/</en>
+    <ru>http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/</ru>
+    <fr>http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/</fr>
+    <de>http://tos.ea.com/legalapp/WEBTERMS/US/en/PC/</de>
+  </string>
+  <string name="TERMS_BUTTON">
+    <en>Info</en>
+    <ru>Инфо</ru>
+    <fr>Info</fr>
+    <de>Info</de>
+  </string>
+</strings>
